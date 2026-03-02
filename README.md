@@ -1,6 +1,6 @@
 ### growth-opportunity-operational-analysis-plant-company
 
-# Identifying Growth Opportunities and Operational Gaps at Plant Co.
+# Identifying Growth Opportunities & Operational Gaps at Plant Co.
 
 ## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
