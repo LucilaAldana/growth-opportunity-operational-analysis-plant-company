@@ -4,6 +4,8 @@
 
 ## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
+📄 Report available in: English - Spanish
+
 This project analyzes business performance at Plant Co. to identify growth opportunities, operational inefficiencies, and revenue gaps across products and customer segments.
 
 The objective was to evaluate sales performance, profitability, and operational metrics to uncover structural weaknesses and provide data-driven recommendations to improve revenue growth and operational efficiency.
