@@ -32,4 +32,4 @@ Key insights supported by the analysis include identifying low-margin product li
 
 The project simulates a real-world business diagnostic scenario where performance evaluation and strategic analysis are used to support executive decision-making, improve operational alignment, and guide sustainable growth initiatives.
 
-Tools Used: Power BI / KPI Development / Profitability Analysis / Business Performance Analysis / Data Visualization / Strategic Insight Development
+Tools Used: Power BI / Generative AI / KPI Development / Profitability Analysis / Business Performance Analysis / Data Visualization / Strategic Insight Development
